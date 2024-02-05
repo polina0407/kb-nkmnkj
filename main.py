@@ -9,7 +9,7 @@ app = QApplication([])
 win = QWidget()
 
 win.setStyleSheet('background-color:#e366be; font-size:24px; padding: 5px')
-win.setWindowIcon(QtGui.QIcon('free-icon-diamonds-5904357.png'))
+win.setWindowIcon(QtGui.QIcon("1686894616_celes-club-p-kotiki-milie-nyashnie-risunki-dlya-srisovk-2.jpg"))
 
 win.resize (1200, 700)
 win.setWindowTitle('Easy Editor')
